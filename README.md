@@ -1,6 +1,6 @@
-<h1 align="center"> Hi! I'm Roshan Andres Nair! </h1>
+<h1 align="center"> Roshan Andres Nair </h1>
 
-<h3 align="center"> Master's Student at the Bren School of Environmental Science and Management in Santa Barbara, California (UCSB) </h3>
+<h3 align="center"> Master's Student in Environmental Data Science at the Bren School of Environmental Science and Management, University of California, Santa Barbara (UCSB) </h3>
 
 <br>
 
